@@ -33,5 +33,5 @@ repositories {
 
 dependencies {
     compile "com.facebook.react:react-native:+"
-    compile group: 'com.zopim.android', name: 'sdk', version: '1.4.2'
+    compile group: 'com.zopim.android', name: 'sdk', version: '1.4.3'
 }
